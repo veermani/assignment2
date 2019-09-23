@@ -1,3 +1,7 @@
+
+//2. ​ How to create a Javascript class in ES6? Write code with example using
+//inheritance
+
 class Cat { 
     constructor(name) {
       this.name = name;
