@@ -1,3 +1,9 @@
+
+// Destructuring assignment is a special syntax that allows us to “unpack” arrays or objects
+// into a bunch of variables, as sometimes that’s more convenient. 
+// Destructuring also works great with complex functions that
+// have a lot of parameters, default values, and so on.
+
 // we have an array with the name and surname
 let arr = ["veermani", "Kumar"]
 
