@@ -6,5 +6,5 @@ let arr = ["veermani", "Kumar"]
 // and surname = arr[1]
 let [firstName, surname] = arr;
 
-console.log(firstName); // Ilya
-console.log(surname);  // Kantor
+console.log(firstName); // veermani
+console.log(surname);  // Kumar
